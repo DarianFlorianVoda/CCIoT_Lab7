@@ -149,16 +149,6 @@ bool compare(Artifact d1, Artifact d2)
     return false;
 }
 
-// Function to sort array arr[0..n-1] of dates
-//void sortDates(Date arr[], int n)
-//{
-//    // Calling in-built sort function.
-//    // First parameter array beginning,
-//    // Second parameter - array ending,
-//    // Third is the custom compare function
-//    sort(arr, arr+n, compare);
-//}
-
 int main(){
 
     std::list<Artifact> artifacts;
