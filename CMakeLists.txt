@@ -3,4 +3,4 @@ project(CCIoT_Lab7)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CCIoT_Lab7 exercise2.cpp exercise3.cpp)
+add_executable(CCIoT_Lab7 exercise5.cpp)
